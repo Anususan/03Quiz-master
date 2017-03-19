@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">03 Quiz</string>
+    <string name="q1">Who is the founder of Android?</string>
+    <string name="op11">Hal Abilson</string>
+    <string name="op12">Andy Rubin</string>
+    <string name="op13">James Gosling</string>
+    <string name="q2">What is APK in android?</string>
+    <string name="op21">Android Packages</string>
+    <string name="op22">Android Pack</string>
+    <string name="op23">Android Packaging Kit</string>
+    <string name="q3">Android is based on which Operating System?</string>
+    <string name="q4">What is Android?</string>
+    <string name="op41">A robot with human experience</string>
+    <string name="op42">An operating system</string>
+    <string name="op43">An application</string>
+    <string name="q5"> What is bean class in android?</string>
+    <string name="op51">A mandatory class in android</string>
+    <string name="op52">A class used to hold states and objects</string>
+    <string name="op53">A java class that should be serializable</string>
+    <string name="q1answer">Andy Rubin</string>
+    <string name="q2answer">Android Packaging Kit</string>
+
+
+
+
+
+
+
+</resources>
